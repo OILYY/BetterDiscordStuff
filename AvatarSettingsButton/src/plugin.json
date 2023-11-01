@@ -1,0 +1,25 @@
+{
+	"name": "AvatarSettingsButton",
+	"author": "OilyGranySmith",
+	"version": "1.0",
+	"description": "Moves the User Settings button to left clicking on the user avatar, with the status picker and context menu still available on configurable actions.",
+	"source": "https://github.com/OILYY/BetterDiscordStuff/blob/main/AvatarSettingsButton/AvatarSettingsButton.plugin.js",
+	"invite": "Y36CTWeCFE",
+	"zlibrary": {
+		"info": {
+			"github_raw": "https://raw.githubusercontent.com/OILYY/BetterDiscordStuff/main/AvatarSettingsButton/AvatarSettingsButton.plugin.js"
+		},
+		"changelog": [
+			{
+				"title": "Added",
+				"type": "improved",
+				"items": ["Added French translations (Thanks to Piquixel on GitHub!)"]
+			},
+			{
+				"title": "Fixed",
+				"type": "fixed",
+				"items": ["Fixed issues with the newest Discord update."]
+			}
+		]
+	}
+}

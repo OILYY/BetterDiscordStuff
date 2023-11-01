@@ -1,0 +1,25 @@
+{
+	"name": "VoiceActivity",
+	"author": "Oily",
+	"version": "1.0",
+	"description": "Shows icons and info in popouts, the member list, and more when someone is in a voice channel.",
+	"source": "https://github.com/OILYY/BetterDiscordStuff/blob/main/VoiceActivity/VoiceActivity.plugin.js",
+	"invite": "Y36CTWeCFE",
+	"zlibrary": {
+		"info": {
+			"github_raw": "https://raw.githubusercontent.com/OILYY/BetterDiscordStuff/main/VoiceActivity/VoiceActivity.plugin.js"
+		},
+		"changelog": [
+			{
+				"title": "Added",
+				"type": "improved",
+				"items": ["Added French translations (Thanks to OILYY on GitHub!)"]
+			},
+			{
+				"title": "Fixed",
+				"type": "fixed",
+				"items": ["Fixed crashing on startup.", "Fixed issues with the newest Discord update."]
+			}
+		]
+	}
+}
