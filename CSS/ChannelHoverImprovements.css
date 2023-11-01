@@ -1,0 +1,13 @@
+/* Locked/Full Channel Hover Improvements */
+.modeLocked-3sToxd:hover .name-28HaxV {
+	color: var(--channels-default);
+}
+.modeLocked-3sToxd:hover .content-1gYQeQ {
+	background-color: var(--background-modifier-hover);
+}
+.modeLocked-3sToxd .mainContent-20q_Hp {
+	cursor: not-allowed;
+}
+.iconVisibility-vptxma:hover .mainContent-20q_Hp:not([aria-label*="("]) .name-28HaxV {
+	color: var(--channels-default);
+}

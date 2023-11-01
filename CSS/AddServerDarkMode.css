@@ -1,0 +1,98 @@
+/* To use, put this at the first line of your Custom CSS: @import url(https://OILYY.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css); */
+
+.theme-light .root-1CAIjD {
+	--dark-background: #36393f;
+	--dark-background-secondary: #2f3136;
+	--dark-background-tertiary: #202225;
+	--dark-modifier-hover: rgba(79, 84, 92, 0.4);
+	--dark-modifier-selected: rgba(79, 84, 92, 0.6);
+	--dark-header: #fff;
+	--dark-header-secondary: #b9bbbe;
+	--dark-text: #dcddde;
+	--dark-link: hsl(197, calc(var(--saturation-factor, 1) * 100%), 47.8%);
+
+	background-color: var(--dark-background);
+	box-shadow: 0 0 0 1px rgb(32 34 37 / 60%), 0 2px 10px 0 rgb(0 0 0 / 20%);
+}
+.theme-light .footer-IubaaS {
+	background-color: var(--dark-background-secondary);
+	box-shadow: inset 0 1px 0 rgb(47 49 54 / 60%);
+}
+.theme-light .thin-RnSY0a::-webkit-scrollbar-thumb {
+	background-color: var(--dark-background-tertiary);
+}
+.theme-light .subtitle-3m-md1,
+.theme-light .subtitle-bIoUVX,
+.theme-light .subtitle-1cc8Nz,
+.theme-light .optionHeader-27AHfD,
+.theme-light .text-sm-normal-AEQz4v,
+.theme-light .formTitle-2YQyhj,
+.theme-light .label-7akf7- {
+	color: var(--dark-header-secondary) !important;
+}
+.theme-light .guidelines-FvqqF2 {
+	color: #a3a6aa !important;
+}
+.theme-light .defaultColor-1EVLSt,
+.theme-light .inputDefault-Ciwd-S {
+	color: var(--dark-text);
+}
+.theme-light .defaultColor-1GKx81,
+.theme-light .sampleLink-5BWNy9 {
+	color: var(--dark-header);
+}
+.theme-light .anchor-1X4H4q {
+	color: var(--dark-link);
+}
+.theme-light .container-x8Y1ix {
+	background-color: var(--dark-background);
+	border-color: hsla(0, 0%, 100%, 0.06);
+}
+.theme-light .rowContainer-3t7486 {
+	background-color: var(--dark-background-secondary);
+}
+.theme-light .container-x8Y1ix:hover,
+.theme-light .rowContainer-3t7486:hover {
+	background-color: var(--dark-modifier-hover);
+}
+.theme-light .container-x8Y1ix:active,
+.theme-light .rowContainer-3t7486:active {
+	background-color: var(--dark-modifier-selected);
+}
+.theme-light .arrow-2yY1Tm,
+.theme-light .rowArrow-TIwwIc {
+	filter: brightness(0) saturate(100%) invert(84%) sepia(4%) saturate(191%) hue-rotate(177deg) brightness(89%)
+		contrast(91%);
+}
+.theme-light .footerButton-24QPis {
+	background-color: #4f545c;
+}
+.theme-light .footerButton-24QPis:hover {
+	background-color: #686d73;
+}
+.theme-light .footerButton-24QPis:active {
+	background-color: #72767d;
+}
+.theme-light .lookBlank-FgPMy6,
+.theme-light .lookLink-13iF2K.colorPrimary-2-Lusz {
+	color: var(--dark-header);
+	text-decoration-color: var(--dark-header);
+}
+.theme-light .lookBlank-FgPMy6:hover,
+.theme-light .lookLink-13iF2K.colorPrimary-2-Lusz:hover {
+	text-decoration: underline;
+}
+.theme-light .uploadIcon-2wV7s_ {
+	color: var(--dark-header-secondary);
+}
+.theme-light .inputDefault-Ciwd-S {
+	background-color: var(--dark-background-tertiary);
+	font-weight: 400;
+}
+.theme-light .inputDefault-Ciwd-S::placeholder {
+	font-weight: 400;
+	color: #87898c;
+}
+.theme-light .close-A4ZfTI.button-ejjZWC:hover {
+	opacity: 1;
+}
