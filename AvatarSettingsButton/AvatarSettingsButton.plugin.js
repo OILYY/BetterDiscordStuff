@@ -39,7 +39,7 @@ const config = {
 				name: "OilyGranySmith"
 			}
 		],
-		version: "2.1.2",
+		version: "1.0",
 		description: "Moves the User Settings button to left clicking on the user avatar, with the status picker and context menu still available on configurable actions.",
 		github: "https://github.com/OILYY/BetterDiscordStuff/blob/main/AvatarSettingsButton/AvatarSettingsButton.plugin.js",
 		github_raw: "https://raw.githubusercontent.com/OILYY/BetterDiscordStuff/main/AvatarSettingsButton/AvatarSettingsButton.plugin.js"
